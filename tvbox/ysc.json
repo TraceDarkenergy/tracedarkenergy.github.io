@@ -1,0 +1,18 @@
+﻿{"storeHouse": [
+{"sourceName":"本地","sourceUrl":"http://192.168.2.181/tvbox/ysc2.json"},  
+{"sourceName":"订制壁纸专仓","sourceUrl":"https://download.kstore.space/download/2883/PY/%E8%AE%A2%E5%88%B6%E5%A3%81%E7%BA%B8%E5%BA%93.txt"},
+{"sourceName":"多多与巧技","sourceUrl":"https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"},
+{"sourceName":"大老仓库","sourceUrl":"https://agit.ai/caesar_518/my/raw/branch/master/mybox.txt"},
+{"sourceName":"dly", "sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/zc.json" }, 
+{"sourceName":"涤灵苑绿色版", "sourceUrl": "https://agit.ai/gk0748/gk0/raw/branch/master/ls.txt" }, 
+{"sourceName":"☁可视内置仓","sourceUrl":"https://agit.ai/hu/hcr/raw/branch/master/99668.txt"},
+{"sourceName":"云星","sourceUrl":"https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/ksck.json"},
+{"sourceName":"13线路神器仓","sourceUrl":"https://cn.kstore.space/download/2904/123.txt"},
+{"sourceName":"月光宝盒","sourceUrl": "https://agit.ai/guot54/ygbh/raw/branch/master/cangku/8.txt"},
+{"sourceName":"666666","sourceUrl": "https://agit.ai/66666/mao/raw/branch/master/00/xx/0.jpg"},
+{"sourceName":"JS体验仓","sourceUrl":"https://download.kstore.space/download/2883/PY/js%E4%BD%93%E9%AA%8C%E5%BA%93.txt"},
+{"sourceName":"PY体验仓","sourceUrl":"https://download.kstore.space/download/2883/PY/py%E4%BD%93%E9%AA%8C%E5%BA%93.txt"},
+{"sourceName":"JAR资源仓","sourceUrl":"https://download.kstore.space/download/2883/10-13.json"},
+{"sourceName":"高山流水的仓库", "sourceUrl": "https://agit.ai/butterfly/md/raw/branch/PLANT/DC-91-OL.json"}
+ ]
+}

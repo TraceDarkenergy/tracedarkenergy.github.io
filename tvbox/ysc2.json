@@ -1,0 +1,13 @@
+{
+    "urls": [
+
+   {
+            "name": "客厅电脑",
+            "url": "http://192.168.2.181/tvbox/index.json"
+        },
+           {
+            "name": "老刘备",
+            "url": "https://raw.liucn.cc/box/m.json"
+        }
+    ]
+}
