@@ -1,13 +1,15 @@
-{
-    "urls": [
+{"urls": [
+    {
+        "name": "私有",
+        "url": "https://tracedarkenergy.github.io/tvbox/index.json"
+    },
+    {
+        "name": "🚀推荐┃①多多线路",
+        "url": "https://d.feiliupan.com/t/112851545820762112/api/config.bin"
+    },
+    {
+        "name": "老刘备",
+        "url": "https://raw.liucn.cc/box/m.json"
+    }
+]}
 
-   {
-            "name": "私有",
-            "url": "https://tracedarkenergy.github.io/tvbox/index.json"
-        },
-           {
-            "name": "老刘备",
-            "url": "https://raw.liucn.cc/box/m.json"
-        }
-    ]
-}
